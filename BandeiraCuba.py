@@ -37,4 +37,4 @@ else:
     cv2.imshow("Bandeira de Cuba", bd_cuba)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-    #cv2.imwrite('./bandeiras-geradas/alemanha_bandeira.jpg', bd_cuba)
+    #cv2.imwrite('./bandeiras-geradas/cuba_bandeira.jpg', bd_cuba)
